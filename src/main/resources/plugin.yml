@@ -1,0 +1,8 @@
+name: spacebedwars
+version: '0.1-ALPHA'
+main: fr.spacyxyt.SpaceBedwars.Main
+authors: [ SpacyXyt ]
+commands:
+  sbw:
+    description: The plugin command.
+    usage: /sbw <join/leave/create/edit/stop/start/world>
